@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="superhero_name">%1$s</string>
+    <string name="superhero_age">Age: %1$d</string>
+    <string name="superhero_power">Superpower: %1$s</string>
+    <string name="superhero_bio">Bio: %1$s</string>
+</resources>
+
